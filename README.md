@@ -35,3 +35,7 @@ jupyter notebook
 # or
 jupyter lab
 ```
+
+> NOTES - Download the dataset before running the notebook
+
+Link to dataset: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/
