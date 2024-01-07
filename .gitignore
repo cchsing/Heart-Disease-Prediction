@@ -207,4 +207,4 @@ pyrightconfig.json
 
 ### User Define ###
 .venv*
-.data/
+data/
